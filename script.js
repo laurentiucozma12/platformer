@@ -6,3 +6,5 @@ canvas.height = 64 * 9; // 576
 
 c.fillStyle = 'white';
 c.fillRect(0, 0, canvas.width, canvas.height);
+
+c.drawImage()
